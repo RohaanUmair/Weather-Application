@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100dvh;
+    width: 100dvw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    height: 500px;
+    width: 300px;
+    border-radius: 20px;
+    border: 1px solid rgb(188, 181, 181);
+    background: linear-gradient(to bottom, white, white, yellow);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blur{
+    border-radius: 10px;
+    height: 90%;
+    width: 85%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-block: 20px;
+}
+
+.blur select{
+    outline: none;
+    height: 1cm;
+    width: 3.5cm;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blur img{
+    height: 200px;
+    width: 210px;
+}
+
+h1{
+    font-size: 39px;
+}
