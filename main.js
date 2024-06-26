@@ -7,7 +7,7 @@ const touristDestinations = [
     { name: "Kaghan Valley", latitude: 34.7939, longitude: 73.5793 },
     { name: "Swat Valley", latitude: 35.222, longitude: 72.4258 },
     { name: "Chitral", latitude: 35.851, longitude: 71.7864 },
-    { na=me: "Neelum Valley", latitude: 34.5857, longitude: 73.907 },
+    { name: "Neelum Valley", latitude: 34.5857, longitude: 73.907 },
     { name: "Ratti Gali Lake", latitude: 34.8861, longitude: 74.0486 },
     { name: "Shangrila Resort", latitude: 35.3525, longitude: 75.5088 },
     { name: "Deosai National Park", latitude: 35.0303, longitude: 75.443 },
