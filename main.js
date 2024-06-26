@@ -20,7 +20,22 @@ const touristDestinations = [
     { name: "Saiful Muluk Lake", latitude: 34.8722, longitude: 73.6919 },
     { name: "Khaplu", latitude: 35.1404, longitude: 76.337 },
     { name: "Karachi", latitude: 24.8607, longitude: 67.0011 },
+    { name: "Lahore", latitude: 31.5497, longitude: 74.3436 },
+    { name: "Islamabad", latitude: 33.6844, longitude: 73.0479 },
+    { name: "Peshawar", latitude: 34.0151, longitude: 71.5249 },
+    { name: "Quetta", latitude: 30.1798, longitude: 66.975 },
+    { name: "Multan", latitude: 30.1575, longitude: 71.5249 },
+    { name: "Bahawalpur", latitude: 29.3956, longitude: 71.6832 },
+    { name: "Faisalabad", latitude: 31.4504, longitude: 73.135 },
+    { name: "Gujranwala", latitude: 32.1877, longitude: 74.1945 },
+    { name: "Sialkot", latitude: 32.4945, longitude: 74.5229 },
+    { name: "Gilgit", latitude: 35.9208, longitude: 74.3141 },
+    { name: "Ziarat", latitude: 30.3816, longitude: 67.7253 },
+    { name: "Gwadar", latitude: 25.1266, longitude: 62.322 },
+    { name: "Mohenjo-daro", latitude: 27.329, longitude: 68.1389 },
+    { name: "Rohtas Fort", latitude: 32.9654, longitude: 73.5789 },
 ];
+
 
 const dropDown = document.querySelector('#citySelect');
 const showTemp = document.querySelector('h1');
